@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Shriram</h1>
-<h3 align="center">I love anything and everything ML and AI!</h3>
+<h1 align="center">Hi, I'm Shriram</h1>
+<h3 align="center">I love ML and the math behind it</h3>
 
-- 👯 I’m looking to collaborate on **any Computer Vision tasks and learn the same**
-
-- 📫 How to reach me **msshriram02@gmail.com shriram2010160@ssn.edu.in**
+- 📫 How to reach me **msshriram02@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
